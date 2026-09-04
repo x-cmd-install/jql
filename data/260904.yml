@@ -7,7 +7,7 @@ about:
   head: 36ff57b
   archived: false
   latestVersion: jql-v8.1.2
-  collectedAt: 2026-09-04T19:32:01Z
+  collectedAt: 2026-09-04T21:01:29Z
 timeline:
   created: 2018-09-02
   lastCommit: 2026-03-18
@@ -82,6 +82,44 @@ total:
   openIssue: 1
   commit: 577
 ---
+path: /home/runner/.x-repo/github.com/yamafaktory/jql
+collectedAt: 2026-09-04T21:01:31Z
+loc:
+  Json:
+    code: 103922
+    comments: 0
+    blanks: 0
+    files: 1
+  Rust:
+    code: 2631
+    comments: 38
+    blanks: 314
+    files: 18
+  Toml:
+    code: 133
+    comments: 2
+    blanks: 20
+    files: 7
+  Sh:
+    code: 29
+    comments: 6
+    blanks: 9
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 342
+    blanks: 211
+    files: 5
+total:
+  code: 106762
+  comments: 546
+  blanks: 558
+  files: 33
 ---
 date: "2026-08-24"
 repo:
