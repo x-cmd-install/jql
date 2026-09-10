@@ -1,62 +1,62 @@
 # jql
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A JSON Query Language CLI tool
 
-![jql](https://repo.x-cmd.io/jql.svg)
+![jql](https://repo.x-cmd.io/jql.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install jql
 ```
 
-## Code insight
+## 代码规模
 
-Total: **109,982** lines of code across **34** files in the top 5 languages.
+合计: **109,982** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 104,284 | 0 | 0 | 2 |
 | Rust | 4,202 | 122 | 600 | 21 |
 | Html | 1,129 | 11 | 42 | 2 |
 | Toml | 200 | 2 | 29 | 8 |
 | Python | 124 | 1 | 33 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **4.5 / 10**
+总评分: **4.5 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/yamafaktory/jql>
-- **Homepage**: <https://crates.io/crates/jql>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/yamafaktory/jql>
+- **官网**: <https://crates.io/crates/jql>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `jql-v9.0.3` (2026-09-08)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 14
+- **最新版本**: `jql-v9.0.3` (2026-09-08)
+- **最近提交**: 2026-09-08
+- **Release 含资产**: 14 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 1,678 · **Forks**: 32 · **Open issues**: 53 · **Contributors**: 18
+- **Star**: 1,678 · **Fork**: 32 · **开放 issue**: 53 · **贡献者**: 18
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 76 · **Merged PRs**: 261 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 0 · **Commits**: 599
+- **发布数**: 76 · **已合并 PR**: 261 · **开放 PR**: 0 · **已关闭 issue**: 53 · **开放 issue**: 0 · **提交数**: 599
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 7 | 15 | 0 | 0 | 0 | 22 |
 | last60d | 2026-07-12 | 7 | 15 | 0 | 0 | 0 | 22 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 12 | 24 | 0 | 0 | 0 | 36 |
 | last720d | 2024-09-20 | 22 | 44 | 0 | 2 | 0 | 69 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [jql-v9.0.3-aarch64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-aarch64-apple-darwin.zip) | 445.4 KiB | `native/darwin/arm64` |
 | [jql-v9.0.3-aarch64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-aarch64-apple-darwin.zip.sha256) | 102 B | `native/darwin/arm64` |
 | [jql-v9.0.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-aarch64-unknown-linux-musl.tar.gz) | 567.9 KiB | `native/linux/arm64/musl` |
@@ -84,23 +84,23 @@ Lowest-scoring checks:
 | [jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz) | 567.0 KiB | `native/linux/x64/musl` |
 | [jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **23** distros on [repology.org](https://repology.org/project/jql). **3** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/jql) 上共有 **23** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**19** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `9.0.3` | ✅ latest |
 | Nix unstable | `8.1.2` | ⚠️ outdated |
 | Alpine edge | `8.1.2` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+jql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jql` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jql.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/jql.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:10:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:10:18Z._
