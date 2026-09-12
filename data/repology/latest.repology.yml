@@ -1,3 +1,16 @@
+- repo: nix_stable_24_05
+  srcname: jql
+  visiblename: jql
+  version: 7.1.8
+  origversion: null
+  status: outdated
+  summary: A JSON Query Language CLI tool built with Rust
+  maintainers:
+    - akshgpt7@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: jql
@@ -156,9 +169,9 @@
   srcname: textproc/jql
   binname: jql
   visiblename: textproc/jql
-  version: 8.1.2
-  origversion: 8.1.2_4
-  status: outdated
+  version: 9.0.3
+  origversion: null
+  status: newest
   summary: JSON Query Language CLI tool built with Rust
   maintainers:
     - yuri@freebsd.org
@@ -193,19 +206,6 @@
     - MIT
   categories:
     - textproc
-- repo: nix_stable_24_05
-  srcname: jql
-  visiblename: jql
-  version: 7.1.8
-  origversion: null
-  status: outdated
-  summary: A JSON Query Language CLI tool built with Rust
-  maintainers:
-    - akshgpt7@gmail.com
-    - figsoda@pm.me
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_24_11
   srcname: jql
   visiblename: jql
