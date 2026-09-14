@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 456042,
       "digest": "sha256:c57916e7e9fb0c5e81ccd1193de2fef16b36d1169cc25a724da4b6e436822ef2",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-09-08T19:51:28Z",
       "updated_at": "2026-09-08T19:51:28Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-aarch64-apple-darwin.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 580579,
       "digest": "sha256:b1d5718b04c7cccd33735a25a85ade2f878b2bf402e1a037504f21f61f517099",
-      "download_count": 126,
+      "download_count": 136,
       "created_at": "2026-09-08T19:51:40Z",
       "updated_at": "2026-09-08T19:51:41Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz"
