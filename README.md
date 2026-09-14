@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,679 · **Forks**: 32 · **Open issues**: 53 · **Contributors**: 18
+- **Stars**: 1,680 · **Forks**: 32 · **Open issues**: 53 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last60d | 2026-07-15 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 90d | 2026-06-15 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last180d | 2026-03-17 | 10 | 19 | 0 | 0 | 0 | 22 |
-| 360d | 2025-09-18 | 12 | 24 | 0 | 0 | 0 | 36 |
-| last720d | 2024-09-23 | 22 | 42 | 0 | 2 | 0 | 69 |
+| 30d | 2026-08-15 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last60d | 2026-07-16 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 90d | 2026-06-16 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last180d | 2026-03-18 | 10 | 15 | 0 | 0 | 0 | 22 |
+| 360d | 2025-09-19 | 12 | 24 | 0 | 0 | 0 | 36 |
+| last720d | 2024-09-24 | 21 | 42 | 0 | 2 | 0 | 63 |
 
 ## Release assets
 
@@ -84,16 +84,6 @@ Lowest-scoring checks:
 | [jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz) | 567.0 KiB | `native/linux/x64/musl` |
 | [jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/jql). **4** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `9.0.3` | ✅ latest |
-| Nix unstable | `8.1.2` | ⚠️ outdated |
-| Alpine edge | `8.1.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +93,4 @@ Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:15:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:20:21Z._
