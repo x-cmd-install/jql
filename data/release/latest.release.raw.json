@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 343331,
       "digest": "sha256:270816a8f06c96e6c4ecb32af379d3275991222f90648fa500f4572bbe68e2ba",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-08T19:52:17Z",
       "updated_at": "2026-09-08T19:52:18Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 580579,
       "digest": "sha256:b1d5718b04c7cccd33735a25a85ade2f878b2bf402e1a037504f21f61f517099",
-      "download_count": 198,
+      "download_count": 206,
       "created_at": "2026-09-08T19:51:40Z",
       "updated_at": "2026-09-08T19:51:41Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.3/jql-v9.0.3-x86_64-unknown-linux-musl.tar.gz"
