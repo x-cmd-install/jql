@@ -30,8 +30,8 @@ x install jql
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -58,12 +58,12 @@ x install jql
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last60d | 2026-08-01 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 90d | 2026-07-02 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-03 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 360d | 2025-10-05 | 12 | 24 | 0 | 0 | 0 | 36 |
-| last720d | 2024-10-10 | 21 | 42 | 0 | 2 | 0 | 63 |
+| 30d | 2026-09-01 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last60d | 2026-08-02 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 90d | 2026-07-03 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-04 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 360d | 2025-10-06 | 12 | 24 | 0 | 0 | 0 | 36 |
+| last720d | 2024-10-11 | 21 | 42 | 0 | 2 | 0 | 63 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ jql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:37:46Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T07:02:56Z._

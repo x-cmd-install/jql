@@ -30,8 +30,8 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last60d | 2026-08-01 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 90d | 2026-07-02 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-03 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 360d | 2025-10-05 | 12 | 24 | 0 | 0 | 0 | 36 |
-| last720d | 2024-10-10 | 21 | 42 | 0 | 2 | 0 | 63 |
+| 30d | 2026-09-01 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last60d | 2026-08-02 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 90d | 2026-07-03 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-04 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 360d | 2025-10-06 | 12 | 24 | 0 | 0 | 0 | 36 |
+| last720d | 2024-10-11 | 21 | 42 | 0 | 2 | 0 | 63 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:37:45Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:02:54Z._
