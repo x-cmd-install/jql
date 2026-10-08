@@ -30,8 +30,8 @@ x install jql
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install jql
 
 ## 流行度
 
-- **Star**: 1,683 · **Fork**: 32 · **开放 issue**: 53 · **贡献者**: 18
+- **Star**: 1,684 · **Fork**: 32 · **开放 issue**: 53 · **贡献者**: 18
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install jql
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 7 | 8 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 90d | 2026-07-09 | 7 | 15 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-10 | 7 | 15 | 0 | 0 | 0 | 22 |
-| 360d | 2025-10-12 | 11 | 22 | 0 | 0 | 0 | 33 |
-| last720d | 2024-10-17 | 21 | 42 | 0 | 2 | 0 | 63 |
+| 30d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 90d | 2026-07-10 | 7 | 15 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-11 | 7 | 15 | 0 | 0 | 0 | 22 |
+| 360d | 2025-10-13 | 11 | 22 | 0 | 0 | 0 | 33 |
+| last720d | 2024-10-18 | 21 | 42 | 0 | 1 | 0 | 63 |
 
 ## Release 资产
 
@@ -93,4 +93,4 @@ jql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:59:26Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:20:07Z._
