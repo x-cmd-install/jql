@@ -1,3 +1,10 @@
+- repo: crates_io
+  srcname: jql
+  visiblename: jql
+  version: 9.0.3
+  origversion: null
+  status: newest
+  summary: jql - JSON Query Language - is a fast and simple command-line tool to manipulate JSON data.
 - repo: aur
   srcname: jql-bin
   binname: jql-bin
@@ -11,13 +18,18 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: crates_io
+- repo: aur
   srcname: jql
+  binname: jql
   visiblename: jql
-  version: 9.0.3
-  origversion: null
-  status: newest
-  summary: jql - JSON Query Language - is a fast and simple command-line tool to manipulate JSON data.
+  version: 8.0.9
+  origversion: 8.0.9-1
+  status: outdated
+  summary: A JSON Query Language CLI tool
+  maintainers:
+    - exorcism@aur
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: jql
@@ -135,18 +147,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: aur
-  srcname: jql
-  binname: jql
-  visiblename: jql
-  version: 8.0.9
-  origversion: 8.0.9-1
-  status: outdated
-  summary: A JSON Query Language CLI tool
-  maintainers:
-    - exorcism@aur
-  licenses:
-    - MIT
 - repo: debian_14
   subrepo: forky/main
   srcname: rust-jql
@@ -202,6 +202,22 @@
   categories:
     - sys-apps
 - repo: fedora_39
+  subrepo: updates
+  srcname: rust-jql
+  binnames:
+    - jql
+    - rust-jql-debuginfo
+    - rust-jql-debugsource
+  visiblename: rust-jql
+  version: 7.1.13
+  origversion: 7.1.13-1.fc39
+  status: outdated
+  summary: JQL is a fast and simple command-line tool to manipulate JSON data
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_39
   subrepo: release
   srcname: rust-jql
   binnames:
@@ -220,22 +236,6 @@
   summary: JSON query language CLI tool
   licenses:
     - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
-  subrepo: updates
-  srcname: rust-jql
-  binnames:
-    - jql
-    - rust-jql-debuginfo
-    - rust-jql-debugsource
-  visiblename: rust-jql
-  version: 7.1.13
-  origversion: 7.1.13-1.fc39
-  status: outdated
-  summary: JQL is a fast and simple command-line tool to manipulate JSON data
-  licenses:
-    - MIT OR Apache-2.0
   categories:
     - Unspecified
 - repo: fedora_40
@@ -271,22 +271,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: rust-jql
-  binnames:
-    - jql
-    - rust-jql-debuginfo
-    - rust-jql-debugsource
-  visiblename: rust-jql
-  version: 7.1.13
-  origversion: 7.1.13-1.fc41
-  status: legacy
-  summary: JQL is a fast and simple command-line tool to manipulate JSON data
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: rust-jql
   binnames:
@@ -302,7 +286,7 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: release
   srcname: rust-jql
   binnames:
@@ -310,8 +294,8 @@
     - rust-jql-debuginfo
     - rust-jql-debugsource
   visiblename: rust-jql
-  version: 8.0.2
-  origversion: 8.0.2-2.fc42
+  version: 7.1.13
+  origversion: 7.1.13-1.fc41
   status: legacy
   summary: JQL is a fast and simple command-line tool to manipulate JSON data
   licenses:
@@ -329,6 +313,22 @@
   version: 8.0.7
   origversion: 8.0.7-1.fc42
   status: outdated
+  summary: JQL is a fast and simple command-line tool to manipulate JSON data
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: rust-jql
+  binnames:
+    - jql
+    - rust-jql-debuginfo
+    - rust-jql-debugsource
+  visiblename: rust-jql
+  version: 8.0.2
+  origversion: 8.0.2-2.fc42
+  status: legacy
   summary: JQL is a fast and simple command-line tool to manipulate JSON data
   licenses:
     - MIT OR Apache-2.0
@@ -603,6 +603,20 @@
   version: 8.1.2
   origversion: 8.1.2-1
   status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - ivancarvalho@google.com
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: rust-jql
+  binnames:
+    - jql
+  visiblename: rust-jql
+  version: 9.0.3
+  origversion: 9.0.3-1
+  status: newest
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
     - ivancarvalho@google.com
