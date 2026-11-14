@@ -239,35 +239,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: rust-jql
-  binnames:
-    - jql
-    - rust-jql-debuginfo
-    - rust-jql-debugsource
-  visiblename: rust-jql
-  version: 8.0.2
-  origversion: 8.0.2-1.fc40
-  status: outdated
-  summary: JQL is a fast and simple command-line tool to manipulate JSON data
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: nix_stable_24_05
-  srcname: jql
-  visiblename: jql
-  version: 7.1.8
-  origversion: null
-  status: outdated
-  summary: A JSON Query Language CLI tool built with Rust
-  maintainers:
-    - akshgpt7@gmail.com
-    - figsoda@pm.me
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: fedora_40
   subrepo: release
   srcname: rust-jql
   binnames:
@@ -283,6 +254,35 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-jql
+  binnames:
+    - jql
+    - rust-jql-debuginfo
+    - rust-jql-debugsource
+  visiblename: rust-jql
+  version: 8.0.2
+  origversion: 8.0.2-1.fc40
+  status: outdated
+  summary: JQL is a fast and simple command-line tool to manipulate JSON data
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: nix_stable_25_05
+  srcname: jql
+  visiblename: jql
+  version: 8.0.6
+  origversion: null
+  status: outdated
+  summary: JSON Query Language CLI tool built with Rust
+  maintainers:
+    - akshgpt7@gmail.com
+    - figsoda@pm.me
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: fedora_41
   subrepo: release
   srcname: rust-jql
@@ -423,9 +423,9 @@
   srcname: textproc/jql
   binname: jql
   visiblename: jql
-  version: 9.0.3
+  version: 9.0.4
   origversion: null
-  status: outdated
+  status: newest
   summary: A JSON Query Language CLI tool
   maintainers:
     - herbygillot@github
@@ -434,23 +434,23 @@
     - MIT
   categories:
     - textproc
-- repo: nix_stable_24_11
+- repo: nix_stable_24_05
   srcname: jql
   visiblename: jql
-  version: 8.0.0
+  version: 7.1.8
   origversion: null
   status: outdated
-  summary: JSON Query Language CLI tool built with Rust
+  summary: A JSON Query Language CLI tool built with Rust
   maintainers:
     - akshgpt7@gmail.com
     - figsoda@pm.me
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_05
+- repo: nix_stable_24_11
   srcname: jql
   visiblename: jql
-  version: 8.0.6
+  version: 8.0.0
   origversion: null
   status: outdated
   summary: JSON Query Language CLI tool built with Rust
