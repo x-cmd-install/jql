@@ -14,14 +14,14 @@ x install jql
 
 ## 代码洞察
 
-合计: **109,990** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
+合计: **110,016** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 104,284 | 0 | 0 | 2 |
-| Rust | 4,207 | 122 | 600 | 21 |
+| Rust | 4,221 | 119 | 600 | 21 |
 | Html | 1,129 | 11 | 42 | 2 |
-| Toml | 203 | 2 | 29 | 8 |
+| Toml | 211 | 2 | 32 | 9 |
 | Python | 124 | 1 | 33 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -42,57 +42,57 @@ x install jql
 
 ## 发布
 
-- **最新版本**: `jql-v9.0.4` (2026-11-11)
-- **最近提交**: 2026-11-11
+- **最新版本**: `jql-v9.0.5` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 14 个
 
 ## 流行度
 
-- **Star**: 1,691 · **Fork**: 34 · **开放 issue**: 54 · **贡献者**: 18
+- **Star**: 1,692 · **Fork**: 34 · **开放 issue**: 54 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 264 · **开放 PR**: 0 · **已关闭 issue**: 53 · **开放 issue**: 1 · **提交数**: 603
+- **发布数**: 78 · **已合并 PR**: 268 · **开放 PR**: 0 · **已关闭 issue**: 54 · **开放 issue**: 0 · **提交数**: 608
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 3 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-16 | 1 | 3 | 0 | 0 | 1 | 4 |
-| 90d | 2026-08-17 | 8 | 18 | 0 | 0 | 1 | 26 |
-| last180d | 2026-05-19 | 8 | 18 | 0 | 0 | 1 | 26 |
-| 360d | 2025-11-20 | 12 | 25 | 0 | 0 | 1 | 37 |
-| last720d | 2024-11-25 | 20 | 41 | 0 | 1 | 1 | 61 |
+| 30d | 2026-10-17 | 2 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-17 | 2 | 7 | 0 | 1 | 0 | 9 |
+| 90d | 2026-08-18 | 9 | 22 | 0 | 1 | 0 | 31 |
+| last180d | 2026-05-20 | 9 | 22 | 0 | 1 | 0 | 31 |
+| 360d | 2025-11-21 | 13 | 29 | 0 | 1 | 0 | 42 |
+| last720d | 2024-11-26 | 21 | 45 | 0 | 2 | 0 | 66 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [jql-v9.0.4-aarch64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-apple-darwin.zip) | 446.5 KiB | `native/darwin/arm64` |
-| [jql-v9.0.4-aarch64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-apple-darwin.zip.sha256) | 102 B | `native/darwin/arm64` |
-| [jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz) | 566.9 KiB | `native/linux/arm64/musl` |
-| [jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
-| [jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz) | 544.4 KiB | `native/linux/arm/musl` |
-| [jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
-| [jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz) | 449.3 KiB | `native/unknown` |
-| [jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `other` |
-| [jql-v9.0.4-x86_64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-apple-darwin.zip) | 461.8 KiB | `native/darwin/x64` |
-| [jql-v9.0.4-x86_64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-apple-darwin.zip.sha256) | 101 B | `native/darwin/x64` |
-| [jql-v9.0.4-x86_64-pc-windows-msvc.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-pc-windows-msvc.zip) | 337.4 KiB | `native/win/x64` |
-| [jql-v9.0.4-x86_64-pc-windows-msvc.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-pc-windows-msvc.zip.sha256) | 104 B | `native/win/x64` |
-| [jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz) | 564.8 KiB | `native/linux/x64/musl` |
-| [jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
+| [jql-v9.0.5-aarch64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip) | 519.1 KiB | `native/darwin/arm64` |
+| [jql-v9.0.5-aarch64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip.sha256) | 102 B | `native/darwin/arm64` |
+| [jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz) | 628.6 KiB | `native/linux/arm64/musl` |
+| [jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
+| [jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz) | 650.2 KiB | `native/linux/arm/musl` |
+| [jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
+| [jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz) | 521.6 KiB | `native/unknown` |
+| [jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `other` |
+| [jql-v9.0.5-x86_64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip) | 566.1 KiB | `native/darwin/x64` |
+| [jql-v9.0.5-x86_64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip.sha256) | 101 B | `native/darwin/x64` |
+| [jql-v9.0.5-x86_64-pc-windows-msvc.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip) | 449.5 KiB | `native/win/x64` |
+| [jql-v9.0.5-x86_64-pc-windows-msvc.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip.sha256) | 104 B | `native/win/x64` |
+| [jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz) | 663.0 KiB | `native/linux/x64/musl` |
+| [jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/jql) 上共有 **45** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**33** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/jql) 上共有 **45** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**36** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `9.0.3` | ⚠️ outdated |
 | Debian 14 | `9.0.3` | ⚠️ outdated |
-| Homebrew | `9.0.4` | ✅ latest |
+| Homebrew | `9.0.5` | ✅ latest |
 | Nix unstable | `8.1.2` | ⚠️ outdated |
 | Alpine edge | `8.1.2` | ⚠️ outdated |
 
@@ -105,4 +105,4 @@ jql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:51:35Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T08:18:20Z._

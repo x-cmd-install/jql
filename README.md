@@ -14,14 +14,14 @@ x install jql
 
 ## Code insight
 
-Total: **109,990** lines of code across **34** files in the top 5 languages.
+Total: **110,016** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 104,284 | 0 | 0 | 2 |
-| Rust | 4,207 | 122 | 600 | 21 |
+| Rust | 4,221 | 119 | 600 | 21 |
 | Html | 1,129 | 11 | 42 | 2 |
-| Toml | 203 | 2 | 29 | 8 |
+| Toml | 211 | 2 | 32 | 9 |
 | Python | 124 | 1 | 33 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,57 +42,57 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `jql-v9.0.4` (2026-11-11)
-- **Last commit**: 2026-11-11
+- **Latest**: `jql-v9.0.5` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 1,691 · **Forks**: 34 · **Open issues**: 54 · **Contributors**: 18
+- **Stars**: 1,692 · **Forks**: 34 · **Open issues**: 54 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 264 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 1 · **Commits**: 603
+- **Releases**: 78 · **Merged PRs**: 268 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 0 · **Commits**: 608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 3 | 0 | 0 | 1 | 4 |
-| last60d | 2026-09-16 | 1 | 3 | 0 | 0 | 1 | 4 |
-| 90d | 2026-08-17 | 8 | 18 | 0 | 0 | 1 | 26 |
-| last180d | 2026-05-19 | 8 | 18 | 0 | 0 | 1 | 26 |
-| 360d | 2025-11-20 | 12 | 25 | 0 | 0 | 1 | 37 |
-| last720d | 2024-11-25 | 20 | 41 | 0 | 1 | 1 | 61 |
+| 30d | 2026-10-17 | 2 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-17 | 2 | 7 | 0 | 1 | 0 | 9 |
+| 90d | 2026-08-18 | 9 | 22 | 0 | 1 | 0 | 31 |
+| last180d | 2026-05-20 | 9 | 22 | 0 | 1 | 0 | 31 |
+| 360d | 2025-11-21 | 13 | 29 | 0 | 1 | 0 | 42 |
+| last720d | 2024-11-26 | 21 | 45 | 0 | 2 | 0 | 66 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jql-v9.0.4-aarch64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-apple-darwin.zip) | 446.5 KiB | `native/darwin/arm64` |
-| [jql-v9.0.4-aarch64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-apple-darwin.zip.sha256) | 102 B | `native/darwin/arm64` |
-| [jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz) | 566.9 KiB | `native/linux/arm64/musl` |
-| [jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
-| [jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz) | 544.4 KiB | `native/linux/arm/musl` |
-| [jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-arm-unknown-linux-musleabihf.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
-| [jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz) | 449.3 KiB | `native/unknown` |
-| [jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-loongarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `other` |
-| [jql-v9.0.4-x86_64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-apple-darwin.zip) | 461.8 KiB | `native/darwin/x64` |
-| [jql-v9.0.4-x86_64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-apple-darwin.zip.sha256) | 101 B | `native/darwin/x64` |
-| [jql-v9.0.4-x86_64-pc-windows-msvc.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-pc-windows-msvc.zip) | 337.4 KiB | `native/win/x64` |
-| [jql-v9.0.4-x86_64-pc-windows-msvc.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-pc-windows-msvc.zip.sha256) | 104 B | `native/win/x64` |
-| [jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz) | 564.8 KiB | `native/linux/x64/musl` |
-| [jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.4/jql-v9.0.4-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
+| [jql-v9.0.5-aarch64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip) | 519.1 KiB | `native/darwin/arm64` |
+| [jql-v9.0.5-aarch64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip.sha256) | 102 B | `native/darwin/arm64` |
+| [jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz) | 628.6 KiB | `native/linux/arm64/musl` |
+| [jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz.sha256) | 111 B | `native/linux/arm64/musl` |
+| [jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz) | 650.2 KiB | `native/linux/arm/musl` |
+| [jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz.sha256) | 113 B | `native/linux/arm/musl` |
+| [jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz) | 521.6 KiB | `native/unknown` |
+| [jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `other` |
+| [jql-v9.0.5-x86_64-apple-darwin.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip) | 566.1 KiB | `native/darwin/x64` |
+| [jql-v9.0.5-x86_64-apple-darwin.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip.sha256) | 101 B | `native/darwin/x64` |
+| [jql-v9.0.5-x86_64-pc-windows-msvc.zip](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip) | 449.5 KiB | `native/win/x64` |
+| [jql-v9.0.5-x86_64-pc-windows-msvc.zip.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip.sha256) | 104 B | `native/win/x64` |
+| [jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz) | 663.0 KiB | `native/linux/x64/musl` |
+| [jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz.sha256) | 110 B | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **45** distros on [repology.org](https://repology.org/project/jql). **7** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+Reported by **45** distros on [repology.org](https://repology.org/project/jql). **4** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `9.0.3` | ⚠️ outdated |
 | Debian 14 | `9.0.3` | ⚠️ outdated |
-| Homebrew | `9.0.4` | ✅ latest |
+| Homebrew | `9.0.5` | ✅ latest |
 | Nix unstable | `8.1.2` | ⚠️ outdated |
 | Alpine edge | `8.1.2` | ⚠️ outdated |
 
@@ -105,4 +105,4 @@ Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:51:34Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:18:19Z._
