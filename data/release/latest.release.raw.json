@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 531557,
       "digest": "sha256:b9678524906e3cf7381ab77edfce6ff42dc7c2d021c1a1a032f508b60086d6f7",
-      "download_count": 4,
+      "download_count": 12,
       "created_at": "2026-11-15T22:32:15Z",
       "updated_at": "2026-11-15T22:32:15Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:072e41bd5de71f88da0365e82ae8580f709d8e4f0c3ab0704fac3f48186b33a1",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T22:32:15Z",
       "updated_at": "2026-11-15T22:32:15Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-apple-darwin.zip.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 643695,
       "digest": "sha256:2f4d893c65c9d3e95da0429676da700d2a678a7e21702e3db120a53c36e42d82",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-11-15T22:32:34Z",
       "updated_at": "2026-11-15T22:32:34Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:38f9525465d483729f0f271b3ff5920c9e3e5419198507748cbd1ee624e88a6f",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T22:32:34Z",
       "updated_at": "2026-11-15T22:32:34Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:c00879d9adf5dce14278f9666f97a55e65c18fce01672ea646a6320dbb9b79c6",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T22:32:44Z",
       "updated_at": "2026-11-15T22:32:45Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-arm-unknown-linux-musleabihf.tar.gz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:cc07e7f1535f91f4c0830da7b408a3fa3627633f0dcb7877a65d849265e14b09",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T22:33:01Z",
       "updated_at": "2026-11-15T22:33:01Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-loongarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 579710,
       "digest": "sha256:e1bbb761b044d9434c07fb4231369ad0825d9ee09e1b43eee704ca8766372a30",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-11-15T22:32:23Z",
       "updated_at": "2026-11-15T22:32:23Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:67e28928c353ad06bcd534741979d68ed686f25144723146fcadc1c11d961169",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T22:32:23Z",
       "updated_at": "2026-11-15T22:32:23Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-apple-darwin.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 460324,
       "digest": "sha256:36d14613308ef08d06aa3f9d2972214595df301c5e006b25f127b8e9a04091e7",
-      "download_count": 6,
+      "download_count": 16,
       "created_at": "2026-11-15T22:32:26Z",
       "updated_at": "2026-11-15T22:32:26Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:022f3f62ab82e54e10293b574b02024ef720f188ea2618d765a74c6c4b597077",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-15T22:32:26Z",
       "updated_at": "2026-11-15T22:32:26Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-pc-windows-msvc.zip.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 678871,
       "digest": "sha256:6fcee875408f325503f65c84fe7d4175b6702fa8e551c4b29ab38fba13a96aa2",
-      "download_count": 16,
+      "download_count": 79,
       "created_at": "2026-11-15T22:32:15Z",
       "updated_at": "2026-11-15T22:32:16Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:b23bf822a66ffd4bf734d8c25150a3876231c57e4c08774778c8d6dbb049dad5",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-15T22:32:15Z",
       "updated_at": "2026-11-15T22:32:16Z",
       "browser_download_url": "https://github.com/yamafaktory/jql/releases/download/jql-v9.0.5/jql-v9.0.5-x86_64-unknown-linux-musl.tar.gz.sha256"
