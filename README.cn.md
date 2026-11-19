@@ -26,13 +26,13 @@ x install jql
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install jql
 
 ## 流行度
 
-- **Star**: 1,692 · **Fork**: 34 · **开放 issue**: 54 · **贡献者**: 18
+- **Star**: 1,693 · **Fork**: 34 · **开放 issue**: 54 · **贡献者**: 18
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install jql
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 7 | 0 | 1 | 0 | 9 |
-| last60d | 2026-09-18 | 2 | 7 | 0 | 1 | 0 | 9 |
-| 90d | 2026-08-19 | 9 | 22 | 0 | 1 | 0 | 31 |
-| last180d | 2026-05-21 | 9 | 22 | 0 | 1 | 0 | 31 |
-| 360d | 2025-11-22 | 13 | 29 | 0 | 1 | 0 | 42 |
-| last720d | 2024-11-27 | 21 | 45 | 0 | 2 | 0 | 66 |
+| 30d | 2026-10-20 | 2 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-20 | 2 | 7 | 0 | 1 | 0 | 9 |
+| 90d | 2026-08-21 | 9 | 22 | 0 | 1 | 0 | 31 |
+| last180d | 2026-05-23 | 9 | 22 | 0 | 1 | 0 | 31 |
+| 360d | 2025-11-24 | 13 | 29 | 0 | 1 | 0 | 42 |
+| last720d | 2024-11-29 | 21 | 45 | 0 | 2 | 0 | 66 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ jql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T11:13:05Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:59:04Z._
