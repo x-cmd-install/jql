@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 7 | 0 | 1 | 0 | 9 |
-| last60d | 2026-09-26 | 2 | 7 | 0 | 1 | 0 | 9 |
-| 90d | 2026-08-27 | 9 | 22 | 0 | 1 | 0 | 31 |
-| last180d | 2026-05-29 | 9 | 22 | 0 | 1 | 0 | 31 |
-| 360d | 2025-11-30 | 13 | 29 | 0 | 1 | 0 | 42 |
-| last720d | 2024-12-05 | 21 | 45 | 0 | 2 | 0 | 66 |
+| 30d | 2026-10-27 | 2 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-27 | 2 | 7 | 0 | 1 | 0 | 9 |
+| 90d | 2026-08-28 | 9 | 22 | 0 | 1 | 0 | 31 |
+| last180d | 2026-05-30 | 9 | 22 | 0 | 1 | 0 | 31 |
+| 360d | 2025-12-01 | 13 | 29 | 0 | 1 | 0 | 42 |
+| last720d | 2024-12-06 | 21 | 43 | 0 | 2 | 0 | 66 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for jql lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:27:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:16:40Z._
